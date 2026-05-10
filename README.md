@@ -270,8 +270,9 @@ The key deliverables are:
 
 ## Things I would improve with more time
 
-- Create a simple pipeline for the full workflow.
+- Create a simple pipeline for the full workflow. Look into production notebooks.
 - Add unit tests for session boundaries and monthly feature generation.
 - Add basic data-quality checks for timestamps, duplicates, and missing metadata.
 - Try different forecasting models and compare results.
 - Automate notebook and output validation in CI.
+- Optimice spark configuration for the workload.
