@@ -1,0 +1,13 @@
+data/raw/*
+!data/raw/README.md
+
+data/processed/*
+!data/processed/README.md
+
+.venv/
+.tmp/
+.coding_challenge_tmp/
+tools/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

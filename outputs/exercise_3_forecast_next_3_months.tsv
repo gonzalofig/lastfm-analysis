@@ -1,0 +1,4 @@
+month_start	predicted_value	predicted_value_rounded	forecast_step	user_id	metric_name
+2009-06-01	162.80384424345232	163	1	user_000833	session_count
+2009-07-01	191.88239407630155	192	2	user_000833	session_count
+2009-08-01	212.29095647115363	212	3	user_000833	session_count
