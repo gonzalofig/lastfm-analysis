@@ -2,8 +2,8 @@
 
 ## Dataset
 
-- Raw input file: `C:\Users\GonzaloFigueroa\Documents\Private\BME\coding challenge\data\raw\lastfm-dataset-1K\userid-timestamp-artid-artname-traid-traname.tsv`
-- Prepared Parquet dataset: `C:\Users\GonzaloFigueroa\Documents\Private\BME\coding challenge\data\processed\lastfm_events_parquet`
+- Raw input file: `C:\Users\GonzaloFigueroa\Documents\Private\BME\lastfm-analysis\data\raw\lastfm-dataset-1K\userid-timestamp-artid-artname-traid-traname.tsv`
+- Prepared Parquet dataset: `C:\Users\GonzaloFigueroa\Documents\Private\BME\lastfm-analysis\data\processed\lastfm_events_parquet`
 - Total valid rows loaded: `19150867`
 - Distinct users: `992`
 
